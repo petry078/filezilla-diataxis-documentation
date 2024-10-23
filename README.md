@@ -6,7 +6,7 @@ In diátaxis, articles are divided into 4 categories:
 
 * References: detailed information for quick lookup and verification;
 *  Explanation: clarifies concepts and provides background for deeper understanding;
-* Guides: Instructions for completing specific tasks or solving problems
+* Guides: Instructions for completing specific tasks or solving problems;
 * Tutorials: Step-by-step guides for beginners to learn something new.
 
 As tutorials are more learning-oriented, most of the time long articles, they will not be presented here.
